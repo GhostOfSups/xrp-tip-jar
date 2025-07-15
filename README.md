@@ -3,8 +3,6 @@ A simple web platform for XRP users to send Testnet tips and view a community Ti
 
 https://GhostOfSups.github.io/xrp-tip-jar
 
-
-CURRENTLY USES TESTNET, THIS WILL BE UPDATED TO LIVE SOON! (Branch for this is "Testing")
 YOU CAN GET A TESTNET WALLET HERE TO TRY THIS OUT
 Get a Testnet wallet from https://xrpl.org/xrp-testnet-faucet.html to test tipping.
 
